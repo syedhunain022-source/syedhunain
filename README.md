@@ -1,102 +1,120 @@
 <!-- =========================================================
-     SYED HUNAIN AHMED — GITHUB PROFILE README
-     Theme: Black / White / Red
+     SYED HUNAIN AHMED
+     GitHub Profile README
+     Frontend Developer
 ========================================================= -->
 
 
 <!-- ========================= HERO ========================= -->
 
 <p align="center">
-  <img src="./assets/hero-banner.png" alt="Syed Hunain Ahmed - Frontend Developer" width="100%" />
+  <img
+    src="./assets/hero-banner.png"
+    alt="Syed Hunain Ahmed - Frontend Developer"
+    width="100%"
+  />
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://syedhunainportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://syedhunainportfolio.netlify.app/">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-E31B23?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/syed-hunain-ahmed-3932682a/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/syed-hunain-ahmed-3932682a/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;
-  <a href="https://github.com/syedhunain022-source" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-E50914?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="mailto:syedhunain022@gmail.com">
+    <img
+      src="https://img.shields.io/badge/GMAIL-E31B23?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedhunain022-source&label=PROFILE+VIEWS&color=E50914&style=for-the-badge" alt="Profile Views" />
-</p>
 
 
 <!-- ======================= ABOUT ME ======================= -->
 
-<br>
-
 <p align="center">
-  <img src="./assets/about-me.png" alt="About Me" width="100%" />
+  <img
+    src="./assets/about-me.png"
+    alt="About Me"
+    width="100%"
+  />
 </p>
 
 <br>
 
 <p align="center">
-  Frontend Developer with <b>2+ years of experience</b> building responsive,
-  interactive and user-focused web interfaces, business dashboards,
-  e-commerce storefronts and CMS-based websites.
+  <b>Frontend Developer</b> with 2+ years of experience building responsive,
+  user-focused web interfaces, business dashboards, e-commerce storefronts
+  and CMS-based websites.
 </p>
 
 <p align="center">
-  I specialize in transforming UI designs into clean, responsive and
-  maintainable frontend experiences using modern technologies such as
-  <b>Angular, TypeScript, JavaScript, Shopify and Webflow</b>.
+  I focus on translating UI designs into clean, maintainable and responsive
+  frontend solutions with strong attention to usability, performance and
+  cross-device compatibility.
 </p>
 
 <br>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <b>⚡ FRONTEND</b><br>
+    <td width="25%" align="center">
+      <b>FRONTEND</b>
+      <br>
       Angular & TypeScript
     </td>
-    <td align="center" width="25%">
-      <b>🎨 INTERACTIVE UI</b><br>
+
+    <td width="25%" align="center">
+      <b>INTERACTIVE UI</b>
+      <br>
       Responsive & GSAP
     </td>
-    <td align="center" width="25%">
-      <b>🛒 E-COMMERCE</b><br>
+
+    <td width="25%" align="center">
+      <b>E-COMMERCE</b>
+      <br>
       Shopify Development
     </td>
-    <td align="center" width="25%">
-      <b>🔗 API</b><br>
-      REST Integrations
+
+    <td width="25%" align="center">
+      <b>APPLICATIONS</b>
+      <br>
+      APIs & Dashboards
     </td>
   </tr>
 </table>
 
+<br><br>
+
 
 <!-- ====================== EXPERIENCE ====================== -->
 
-<br><br>
-
 <p align="center">
-  <img src="./assets/experience.png" alt="Experience" width="100%" />
+  <img
+    src="./assets/experience.png"
+    alt="Professional Experience"
+    width="100%"
+  />
 </p>
 
 <br>
 
-<h3 align="center">
-  Frontend Developer @ Peachy Digitals
-</h3>
+<h2 align="center">Frontend Developer</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-E50914?style=flat-square" />
-  <img src="https://img.shields.io/badge/LOCATION-KARACHI%2C%20PAKISTAN-111111?style=flat-square" />
-</p>
+<h4 align="center">Peachy Digitals · 2+ Years</h4>
 
 <br>
 
@@ -106,23 +124,23 @@
 
 ### Frontend Development
 
-- Build responsive interfaces using Angular
-- Develop applications with TypeScript & JavaScript
-- Create reusable frontend UI components
-- Implement responsive HTML, CSS & SCSS layouts
+- Develop responsive web interfaces using Angular
+- Build frontend functionality with TypeScript and JavaScript
+- Create reusable and maintainable UI components
+- Implement responsive HTML, CSS and SCSS layouts
 - Maintain cross-device compatibility
 
     </td>
 
     <td width="50%" valign="top">
 
-### Platforms & Integrations
+### CMS & E-Commerce
 
 - Build and customize Shopify storefronts
-- Develop responsive Webflow websites
-- Integrate REST APIs with frontend applications
-- Build admin and business dashboards
-- Implement dynamic data binding
+- Customize responsive Shopify themes
+- Develop and maintain Webflow websites
+- Create e-commerce interface components
+- Maintain visual consistency across devices
 
     </td>
   </tr>
@@ -130,63 +148,81 @@
   <tr>
     <td width="50%" valign="top">
 
-### UI & Interaction
+### Applications & APIs
 
-- Responsive interface development
-- GSAP-based animations
-- Interactive frontend experiences
-- Performance-focused animations
-- User-focused interface implementation
+- Integrate REST APIs with frontend applications
+- Connect interfaces with dynamic backend data
+- Build admin and business dashboards
+- Implement reusable dashboard components
+- Work with frontend data binding
 
     </td>
 
     <td width="50%" valign="top">
 
-### Development Workflow
+### UI & Workflow
 
-- GitHub source control
-- GitHub Desktop
-- Version control
-- Project collaboration
-- Code management
+- Build GSAP-powered animations and interactions
+- Develop interactive user interfaces
+- Focus on smooth frontend performance
+- Manage code using Git and GitHub
+- Use version control for project collaboration
 
     </td>
   </tr>
 </table>
 
+<br><br>
+
 
 <!-- ===================== SELECTED WORK ==================== -->
 
-<br><br>
-
 <p align="center">
-  <img src="./assets/selected-work.png" alt="Selected Work" width="100%" />
+  <img
+    src="./assets/selected-work.png"
+    alt="Selected Work"
+    width="100%"
+  />
 </p>
 
 <br>
 
-<h3 align="center">Interfaces Built For Performance.</h3>
+<h2 align="center">Interfaces Built for Performance</h2>
 
 <p align="center">
-  A selection of responsive websites, e-commerce experiences,
-  frontend applications and interactive interfaces.
+  My work spans responsive frontend interfaces, business dashboards,
+  Shopify experiences, Webflow websites and interactive web development.
 </p>
 
 <br>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h3>⚡ Frontend</h3>
-      Angular, TypeScript and JavaScript powered responsive interfaces.
+    <td width="33%" align="center" valign="top">
+
+### Frontend Interfaces
+
+Responsive and maintainable interfaces built with Angular,
+TypeScript and JavaScript.
+
     </td>
-    <td align="center" width="33%">
-      <h3>🛒 E-Commerce</h3>
-      Shopify storefronts, theme customization and responsive e-commerce UI.
+
+    <td width="33%" align="center" valign="top">
+
+### E-Commerce
+
+Responsive Shopify storefronts and customized
+e-commerce user experiences.
+
     </td>
-    <td align="center" width="33%">
-      <h3>🖥️ Dashboards</h3>
-      Business and admin dashboards with reusable components and data binding.
+
+    <td width="33%" align="center" valign="top">
+
+### Business Applications
+
+Admin dashboards, API-driven interfaces
+and dynamic frontend applications.
+
     </td>
   </tr>
 </table>
@@ -194,251 +230,298 @@
 <br>
 
 <p align="center">
-  <a href="https://syedhunainportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20SELECTED%20WORK-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/syedhunain022-source?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <a href="https://syedhunainportfolio.netlify.app/">
+    <img
+      src="https://img.shields.io/badge/VIEW%20SELECTED%20WORK-E31B23?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="View Selected Work"
+    />
   </a>
 </p>
 
-
-<!-- =================== TECH STACK =================== -->
-
 <br><br>
 
+
+<!-- ====================== TECH STACK ====================== -->
+
 <p align="center">
-  <img src="./assets/tech-stack.png" alt="Tech Stack and Skills" width="100%" />
+  <img
+    src="./assets/tech-stack.png"
+    alt="Tech Stack and Skills"
+    width="100%"
+  />
 </p>
 
 <br>
 
-<h3 align="center">Frontend Development</h3>
+<h3 align="center">Frontend</h3>
+
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss&theme=dark" alt="Frontend Skills" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+    width="52"
+    height="52"
+    alt="Angular"
+    title="Angular"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="52"
+    height="52"
+    alt="TypeScript"
+    title="TypeScript"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="52"
+    height="52"
+    alt="JavaScript"
+    title="JavaScript"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="52"
+    height="52"
+    alt="HTML5"
+    title="HTML5"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="52"
+    height="52"
+    alt="CSS3"
+    title="CSS3"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    width="52"
+    height="52"
+    alt="SCSS"
+    title="SCSS"
+  />
 </p>
 
 <br>
 
 <h3 align="center">CMS & E-Commerce</h3>
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SHOPIFY-111111?style=for-the-badge&logo=shopify&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/SHOPIFY%20THEME%20CUSTOMIZATION-E50914?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WEBFLOW-111111?style=for-the-badge&logo=webflow&logoColor=E50914" />
+  <img
+    src="https://cdn.simpleicons.org/shopify/E31B23"
+    width="52"
+    height="52"
+    alt="Shopify"
+    title="Shopify"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.simpleicons.org/webflow/E31B23"
+    width="52"
+    height="52"
+    alt="Webflow"
+    title="Webflow"
+  />
 </p>
 
 <br>
 
 <h3 align="center">UI & Animation</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-E50914?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-111111?style=for-the-badge&logo=css3&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/INTERACTIVE%20UI-E50914?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
-
-<br>
-
-<h3 align="center">Applications & API</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logo=postman&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/DASHBOARD%20DEVELOPMENT-E50914?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATA%20BINDING-111111?style=for-the-badge&logo=angular&logoColor=E50914" />
-</p>
-
-<br>
-
-<h3 align="center">Development Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB%20DESKTOP-E50914?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VERSION%20CONTROL-111111?style=for-the-badge&logo=git&logoColor=E50914" />
-</p>
-
-
-<!-- =================== SKILL BREAKDOWN =================== -->
-
-<br>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-
-### ⚡ Frontend
-
-`Angular`  
-`TypeScript`  
-`JavaScript`  
-`HTML5`  
-`CSS3`  
-`SCSS`
-
-    </td>
-
-    <td valign="top" width="33%">
-
-### 🎨 UI / Animation
-
-`GSAP`  
-`Responsive Design`  
-`Interactive UI Development`
-
-    </td>
-
-    <td valign="top" width="33%">
-
-### 🛒 CMS / E-Commerce
-
-`Shopify`  
-`Shopify Theme Customization`  
-`Webflow`
-
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="33%">
-
-### 🔗 Applications
-
-`REST API Integration`  
-`Dashboard Development`  
-`Data Binding`
-
-    </td>
-
-    <td valign="top" width="33%">
-
-### 🛠 Tools
-
-`GitHub`  
-`GitHub Desktop`  
-`Version Control`
-
-    </td>
-
-    <td valign="top" width="33%">
-
-### 🎯 Focus
-
-`Performance`  
-`Responsive UI`  
-`Maintainable Code`  
-`Cross-device Compatibility`
-
-    </td>
-  </tr>
-</table>
-
-
-<!-- ================= GITHUB INSIGHTS ================= -->
-
-<br><br>
-
-<p align="center">
-  <img src="./assets/github-insights.png" alt="GitHub Insights" width="100%" />
-</p>
-
 <br>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=syedhunain022-source&show_icons=true&hide_border=false&border_color=E50914&title_color=E50914&icon_color=E50914&text_color=FFFFFF&bg_color=0D0D0D&include_all_commits=true&count_private=true"
-    alt="Syed Hunain Ahmed GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=syedhunain022-source&theme=dark&hide_border=false&border=E50914&background=0D0D0D&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=FFFFFF&dates=8B8B8B&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    alt="Syed Hunain Ahmed GitHub Streak"
+    src="https://cdn.simpleicons.org/gsap/E31B23"
+    width="52"
+    height="52"
+    alt="GSAP"
+    title="GSAP"
   />
 </p>
 
 <br>
 
-<p align="center">
-  <img
-    width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhunain022-source&layout=compact&hide_border=false&border_color=E50914&title_color=E50914&text_color=FFFFFF&bg_color=0D0D0D&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
+<h3 align="center">Version Control</h3>
 
 <br>
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=syedhunain022-source&bg_color=0D0D0D&color=FFFFFF&line=E50914&point=FFFFFF&area=true&hide_border=false&border_color=E50914"
-    alt="Contribution Graph"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    width="52"
+    height="52"
+    alt="Git"
+    title="Git"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    width="52"
+    height="52"
+    alt="GitHub"
+    title="GitHub"
   />
 </p>
 
-
-<!-- ===================== EDUCATION ===================== -->
-
-<br><br>
-
-<h2 align="center">EDUCATION</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BACHELOR%20OF%20BUSINESS%20%26%20INFORMATION%20TECHNOLOGY-BBIT-E50914?style=for-the-badge" />
-</p>
-
-<h3 align="center">Virtual University</h3>
-
-<p align="center">
-  2024 — Present
-</p>
-
-
-<!-- ================= CURRENT PROFILE ================= -->
-
 <br>
-
-<h2 align="center">WHAT I WORK WITH</h2>
 
 <p align="center">
   Angular &nbsp;•&nbsp;
   TypeScript &nbsp;•&nbsp;
   JavaScript &nbsp;•&nbsp;
+  HTML5 &nbsp;•&nbsp;
+  CSS3 &nbsp;•&nbsp;
+  SCSS
+</p>
+
+<p align="center">
   Shopify &nbsp;•&nbsp;
   Webflow &nbsp;•&nbsp;
   GSAP &nbsp;•&nbsp;
-  REST APIs &nbsp;•&nbsp;
-  Dashboards
+  REST API Integration &nbsp;•&nbsp;
+  Dashboard Development
 </p>
-
-
-<!-- ==================== LET'S BUILD ==================== -->
 
 <br><br>
 
-<a href="https://syedhunainportfolio.netlify.app/" target="_blank">
-  <img src="./assets/lets-build.png" alt="Let's Build Something Great" width="100%" />
+
+<!-- =================== GITHUB INSIGHTS =================== -->
+
+<p align="center">
+  <img
+    src="./assets/github-insights.png"
+    alt="GitHub Insights"
+    width="100%"
+  />
+</p>
+
+<br>
+
+<!--
+  These SVG files are automatically generated by the
+  GitHub Profile Summary Cards workflow.
+
+  Do not manually edit these files.
+-->
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="49%"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    width="49%"
+    alt="Most Used Languages in Commits"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    width="49%"
+    alt="Productive Time"
+  />
+</p>
+
+<br><br>
+
+
+<!-- ====================== CORE FOCUS ====================== -->
+
+<h2 align="center">CORE FOCUS</h2>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="25%" align="center">
+      <b>Responsive UI</b>
+      <br><br>
+      Interfaces designed to work consistently across devices.
+    </td>
+
+    <td width="25%" align="center">
+      <b>Maintainable Code</b>
+      <br><br>
+      Reusable frontend structures built for long-term development.
+    </td>
+
+    <td width="25%" align="center">
+      <b>Performance</b>
+      <br><br>
+      Smooth and efficient interfaces with performance in mind.
+    </td>
+
+    <td width="25%" align="center">
+      <b>User Experience</b>
+      <br><br>
+      Clean and intuitive frontend experiences focused on usability.
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+
+<!-- ====================== LET'S BUILD ====================== -->
+
+<a href="https://syedhunainportfolio.netlify.app/">
+  <img
+    src="./assets/lets-build.png"
+    alt="Let's Build Something Great"
+    width="100%"
+  />
 </a>
 
 <br><br>
 
 <p align="center">
-  <a href="https://syedhunainportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://syedhunainportfolio.netlify.app/">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-E31B23?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/syed-hunain-ahmed-3932682a/" target="_blank">
-    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/syed-hunain-ahmed-3932682a/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;
-  <a href="https://github.com/syedhunain022-source" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE%20GITHUB-E50914?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="mailto:syedhunain022@gmail.com">
+    <img
+      src="https://img.shields.io/badge/GMAIL-E31B23?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 </p>
 
@@ -449,13 +532,11 @@
 </p>
 
 <p align="center">
-  Building responsive, interactive & user-focused digital experiences.
+  Building responsive, interactive and user-focused web experiences.
 </p>
 
 <br>
 
 <p align="center">
-  <sub>
-    © 2026 Syed Hunain Ahmed
-  </sub>
+  <sub>© 2026 Syed Hunain Ahmed</sub>
 </p>
