@@ -208,7 +208,7 @@ Frontend interactions and GSAP-based animations designed to add motion without c
   <img
     src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     width="100%"
-    alt="Syed Hunain Ahmed GitHub Profile Details"
+    alt="GitHub Profile Details"
   />
 </p>
 
@@ -237,8 +237,6 @@ Frontend interactions and GSAP-based animations designed to add motion without c
     alt="Productive Time"
   />
 </p>
-
----
 
 ## What I Focus On
 
